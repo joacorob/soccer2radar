@@ -1,0 +1,5 @@
+.DS_Store
+*.avi
+*.mp4
+*/.DS_Store
+predict-players/yolov3-coco/yolov3.weights
