@@ -1,4 +1,5 @@
 .DS_Store
+*.DS_Store
 *.avi
 *.mp4
 */.DS_Store
